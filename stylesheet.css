@@ -126,7 +126,10 @@
     color: white;
     cursor: pointer;
 }
-
+.delete-icon:hover {
+  color: #ff0055;
+  text-shadow: 0 0 5px #ff0055, 0 0 10px #ff0055;
+}
 .delete-icon {
     padding: 15px;
 }
